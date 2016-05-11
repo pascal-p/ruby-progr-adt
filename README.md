@@ -1,4 +1,4 @@
-# ADT [Abstract Data Type]
+# ruby-progr-adt - ADT [Abstract Data Type]
 
 An implementation of BST [Binary Search Tree] and Splay Tree with Ruby
 
